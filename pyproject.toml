@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "movenet"
+version = "0.1.0"
+description = ""
+authors = ["swenbao <95946132+swenbao@users.noreply.github.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = ">=3.11,<3.12"
+tensorflow = "^2.14.0"
+matplotlib = "^3.8.0"
+ipython = "^8.16.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
