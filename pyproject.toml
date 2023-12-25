@@ -16,6 +16,7 @@ tensorflow-docs = {git = "https://github.com/tensorflow/docs"}
 tensorflow-hub = "^0.15.0"
 opencv-python = "^4.8.1.78"
 imageio = "^2.31.6"
+pillow = "^10.1.0"
 
 
 [build-system]
